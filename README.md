@@ -6,9 +6,6 @@ A simple educational project that simulates brute force login behavior using a F
 
 ---
 
-## 📸 Demo Screenshot
-
-![Screenshot](screenshots/demo.png) <!-- (Optional - Add your own screenshot image) -->
 
 ---
 
