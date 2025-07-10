@@ -1,0 +1,662 @@
+2025-07-07 19:50:57,351 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 19:50:57,351 - [33mPress CTRL+C to quit[0m
+2025-07-07 19:50:57,373 -  * Restarting with watchdog (windowsapi)
+2025-07-07 19:50:57,944 -  * Debugger is active!
+2025-07-07 19:50:57,948 -  * Debugger PIN: 760-882-839
+2025-07-07 19:51:12,893 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 19:51:12,902 - 127.0.0.1 - - [07/Jul/2025 19:51:12] "POST / HTTP/1.1" 200 -
+2025-07-07 19:51:12,907 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 19:51:12,907 - 127.0.0.1 - - [07/Jul/2025 19:51:12] "POST / HTTP/1.1" 200 -
+2025-07-07 19:51:12,912 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 19:51:12,913 - 127.0.0.1 - - [07/Jul/2025 19:51:12] "POST / HTTP/1.1" 200 -
+2025-07-07 19:52:06,849 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 19:52:06,849 - [33mPress CTRL+C to quit[0m
+2025-07-07 19:52:06,872 -  * Restarting with watchdog (windowsapi)
+2025-07-07 19:52:07,417 -  * Debugger is active!
+2025-07-07 19:52:07,421 -  * Debugger PIN: 760-882-839
+2025-07-07 19:52:41,947 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 19:52:41,947 - [33mPress CTRL+C to quit[0m
+2025-07-07 19:52:41,968 -  * Restarting with watchdog (windowsapi)
+2025-07-07 19:52:42,525 -  * Debugger is active!
+2025-07-07 19:52:42,529 -  * Debugger PIN: 760-882-839
+2025-07-07 19:52:46,669 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 19:52:46,673 - 127.0.0.1 - - [07/Jul/2025 19:52:46] "POST / HTTP/1.1" 200 -
+2025-07-07 19:52:46,678 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 19:52:46,679 - 127.0.0.1 - - [07/Jul/2025 19:52:46] "POST / HTTP/1.1" 200 -
+2025-07-07 19:52:46,682 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 19:52:46,682 - 127.0.0.1 - - [07/Jul/2025 19:52:46] "POST / HTTP/1.1" 200 -
+2025-07-07 19:54:41,392 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+2025-07-07 19:54:41,473 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\_pytest\\fixtures.py', reloading
+2025-07-07 19:54:41,587 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\_pytest\\config\\__init__.py', reloading
+2025-07-07 19:54:41,691 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\_pytest\\capture.py', reloading
+2025-07-07 19:54:41,920 -  * Restarting with watchdog (windowsapi)
+2025-07-07 19:54:42,527 -  * Debugger is active!
+2025-07-07 19:54:42,531 -  * Debugger PIN: 760-882-839
+2025-07-07 19:54:44,826 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 19:54:44,827 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 19:54:45,023 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 19:54:45,024 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 19:54:45,172 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 19:54:45,173 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 19:54:45,344 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 19:54:45,345 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 19:54:45,647 -  * Restarting with watchdog (windowsapi)
+2025-07-07 19:54:46,270 -  * Debugger is active!
+2025-07-07 19:54:46,278 -  * Debugger PIN: 760-882-839
+2025-07-07 19:54:53,415 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 19:54:53,415 - [33mPress CTRL+C to quit[0m
+2025-07-07 19:54:53,437 -  * Restarting with watchdog (windowsapi)
+2025-07-07 19:54:54,054 -  * Debugger is active!
+2025-07-07 19:54:54,062 -  * Debugger PIN: 760-882-839
+2025-07-07 19:54:56,305 - 127.0.0.1 - - [07/Jul/2025 19:54:56] "GET / HTTP/1.1" 200 -
+2025-07-07 19:55:23,378 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 19:55:23,378 - 127.0.0.1 - - [07/Jul/2025 19:55:23] "POST / HTTP/1.1" 200 -
+2025-07-07 19:55:23,383 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 19:55:23,383 - 127.0.0.1 - - [07/Jul/2025 19:55:23] "POST / HTTP/1.1" 200 -
+2025-07-07 19:55:23,388 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 19:55:23,389 - 127.0.0.1 - - [07/Jul/2025 19:55:23] "POST / HTTP/1.1" 200 -
+2025-07-07 19:59:47,481 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 19:59:47,481 - [33mPress CTRL+C to quit[0m
+2025-07-07 19:59:47,503 -  * Restarting with watchdog (windowsapi)
+2025-07-07 19:59:48,088 -  * Debugger is active!
+2025-07-07 19:59:48,093 -  * Debugger PIN: 760-882-839
+2025-07-07 20:00:19,765 - 127.0.0.1 - - [07/Jul/2025 20:00:19] "GET / HTTP/1.1" 200 -
+2025-07-07 20:00:23,195 - 127.0.0.1 - - [07/Jul/2025 20:00:23] "GET / HTTP/1.1" 200 -
+2025-07-07 20:00:24,659 - 127.0.0.1 - - [07/Jul/2025 20:00:24] "GET / HTTP/1.1" 200 -
+2025-07-07 20:00:47,399 - 127.0.0.1 - - [07/Jul/2025 20:00:47] "GET / HTTP/1.1" 200 -
+2025-07-07 20:00:47,742 - 127.0.0.1 - - [07/Jul/2025 20:00:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-07 20:00:48,979 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:00:48,979 - 127.0.0.1 - - [07/Jul/2025 20:00:48] "POST / HTTP/1.1" 200 -
+2025-07-07 20:00:50,062 - 127.0.0.1 - - [07/Jul/2025 20:00:50] "GET / HTTP/1.1" 200 -
+2025-07-07 20:00:51,313 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:00:51,313 - 127.0.0.1 - - [07/Jul/2025 20:00:51] "POST / HTTP/1.1" 200 -
+2025-07-07 20:00:52,344 - 127.0.0.1 - - [07/Jul/2025 20:00:52] "GET / HTTP/1.1" 200 -
+2025-07-07 20:00:53,579 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin123
+2025-07-07 20:00:53,579 - 127.0.0.1 - - [07/Jul/2025 20:00:53] "POST / HTTP/1.1" 200 -
+2025-07-07 20:00:54,613 - 127.0.0.1 - - [07/Jul/2025 20:00:54] "GET / HTTP/1.1" 200 -
+2025-07-07 20:00:55,844 - 127.0.0.1 - - [07/Jul/2025 20:00:55] "POST / HTTP/1.1" 200 -
+2025-07-07 20:00:56,893 - 127.0.0.1 - - [07/Jul/2025 20:00:56] "GET / HTTP/1.1" 200 -
+2025-07-07 20:01:29,369 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:01:29,370 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:01:29,808 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:01:29,809 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:01:30,380 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:01:30,989 -  * Debugger is active!
+2025-07-07 20:01:30,992 -  * Debugger PIN: 760-882-839
+2025-07-07 20:01:49,861 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:01:49,861 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:01:49,885 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:01:50,477 -  * Debugger is active!
+2025-07-07 20:01:50,479 -  * Debugger PIN: 760-882-839
+2025-07-07 20:01:55,703 - 127.0.0.1 - - [07/Jul/2025 20:01:55] "GET / HTTP/1.1" 200 -
+2025-07-07 20:01:55,996 - 127.0.0.1 - - [07/Jul/2025 20:01:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-07 20:01:57,238 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:01:57,239 - 127.0.0.1 - - [07/Jul/2025 20:01:57] "POST / HTTP/1.1" 200 -
+2025-07-07 20:01:58,315 - 127.0.0.1 - - [07/Jul/2025 20:01:58] "GET / HTTP/1.1" 200 -
+2025-07-07 20:01:59,547 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:01:59,547 - 127.0.0.1 - - [07/Jul/2025 20:01:59] "POST / HTTP/1.1" 200 -
+2025-07-07 20:02:00,562 - 127.0.0.1 - - [07/Jul/2025 20:02:00] "GET / HTTP/1.1" 200 -
+2025-07-07 20:02:01,790 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:02:01,790 - 127.0.0.1 - - [07/Jul/2025 20:02:01] "POST / HTTP/1.1" 200 -
+2025-07-07 20:02:02,842 - 127.0.0.1 - - [07/Jul/2025 20:02:02] "GET / HTTP/1.1" 200 -
+2025-07-07 20:04:17,923 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:04:17,924 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:04:18,237 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:04:18,238 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:04:18,861 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:04:19,480 -  * Debugger is active!
+2025-07-07 20:04:19,485 -  * Debugger PIN: 760-882-839
+2025-07-07 20:04:23,391 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:04:23,392 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:04:23,418 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:04:24,027 -  * Debugger is active!
+2025-07-07 20:04:24,031 -  * Debugger PIN: 760-882-839
+2025-07-07 20:04:27,871 - 127.0.0.1 - - [07/Jul/2025 20:04:27] "GET / HTTP/1.1" 200 -
+2025-07-07 20:04:28,582 - 127.0.0.1 - - [07/Jul/2025 20:04:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-07 20:04:38,833 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:04:38,834 - 127.0.0.1 - - [07/Jul/2025 20:04:38] "POST / HTTP/1.1" 200 -
+2025-07-07 20:04:48,955 - 127.0.0.1 - - [07/Jul/2025 20:04:48] "GET / HTTP/1.1" 200 -
+2025-07-07 20:04:59,172 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:04:59,173 - 127.0.0.1 - - [07/Jul/2025 20:04:59] "POST / HTTP/1.1" 200 -
+2025-07-07 20:05:09,210 - 127.0.0.1 - - [07/Jul/2025 20:05:09] "GET / HTTP/1.1" 200 -
+2025-07-07 20:05:19,426 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:05:19,426 - 127.0.0.1 - - [07/Jul/2025 20:05:19] "POST / HTTP/1.1" 200 -
+2025-07-07 20:05:29,475 - 127.0.0.1 - - [07/Jul/2025 20:05:29] "GET / HTTP/1.1" 200 -
+2025-07-07 20:05:48,211 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:05:48,213 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:05:48,238 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:05:48,851 -  * Debugger is active!
+2025-07-07 20:05:48,866 -  * Debugger PIN: 760-882-839
+2025-07-07 20:05:53,092 - 127.0.0.1 - - [07/Jul/2025 20:05:53] "GET / HTTP/1.1" 200 -
+2025-07-07 20:05:53,621 - 127.0.0.1 - - [07/Jul/2025 20:05:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-07 20:06:03,878 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:06:03,880 - 127.0.0.1 - - [07/Jul/2025 20:06:03] "POST / HTTP/1.1" 200 -
+2025-07-07 20:06:13,964 - 127.0.0.1 - - [07/Jul/2025 20:06:13] "GET / HTTP/1.1" 200 -
+2025-07-07 20:06:24,203 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:06:24,203 - 127.0.0.1 - - [07/Jul/2025 20:06:24] "POST / HTTP/1.1" 200 -
+2025-07-07 20:06:34,265 - 127.0.0.1 - - [07/Jul/2025 20:06:34] "GET / HTTP/1.1" 200 -
+2025-07-07 20:06:44,493 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:06:44,493 - 127.0.0.1 - - [07/Jul/2025 20:06:44] "POST / HTTP/1.1" 200 -
+2025-07-07 20:10:42,997 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:10:42,997 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:10:43,021 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:10:43,592 -  * Debugger is active!
+2025-07-07 20:10:43,598 -  * Debugger PIN: 760-882-839
+2025-07-07 20:10:48,427 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:10:48,433 - 127.0.0.1 - - [07/Jul/2025 20:10:48] "POST / HTTP/1.1" 200 -
+2025-07-07 20:11:31,282 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:11:31,282 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:11:31,304 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:11:31,888 -  * Debugger is active!
+2025-07-07 20:11:31,892 -  * Debugger PIN: 760-882-839
+2025-07-07 20:11:36,095 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:11:36,102 - 127.0.0.1 - - [07/Jul/2025 20:11:36] "POST / HTTP/1.1" 200 -
+2025-07-07 20:11:55,685 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:11:55,687 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:11:55,942 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:11:55,944 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:11:56,013 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:11:56,642 -  * Debugger is active!
+2025-07-07 20:11:56,648 -  * Debugger PIN: 760-882-839
+2025-07-07 20:12:01,327 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:12:01,327 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:12:01,348 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:12:01,946 -  * Debugger is active!
+2025-07-07 20:12:01,952 -  * Debugger PIN: 760-882-839
+2025-07-07 20:12:04,357 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:12:04,360 - 127.0.0.1 - - [07/Jul/2025 20:12:04] "POST / HTTP/1.1" 200 -
+2025-07-07 20:14:00,837 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:14:00,837 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:14:00,856 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:14:01,415 -  * Debugger is active!
+2025-07-07 20:14:01,419 -  * Debugger PIN: 760-882-839
+2025-07-07 20:14:12,540 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:14:12,541 - 127.0.0.1 - - [07/Jul/2025 20:14:12] "POST / HTTP/1.1" 200 -
+2025-07-07 20:16:29,268 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:16:29,269 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:16:29,291 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:16:29,891 -  * Debugger is active!
+2025-07-07 20:16:29,895 -  * Debugger PIN: 760-882-839
+2025-07-07 20:16:33,213 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:16:33,219 - 127.0.0.1 - - [07/Jul/2025 20:16:33] "POST / HTTP/1.1" 200 -
+2025-07-07 20:16:33,224 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:16:33,226 - 127.0.0.1 - - [07/Jul/2025 20:16:33] "POST / HTTP/1.1" 200 -
+2025-07-07 20:16:33,231 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:16:33,232 - 127.0.0.1 - - [07/Jul/2025 20:16:33] "POST / HTTP/1.1" 200 -
+2025-07-07 20:17:34,439 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:17:34,439 - 127.0.0.1 - - [07/Jul/2025 20:17:34] "POST / HTTP/1.1" 200 -
+2025-07-07 20:17:34,444 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:17:34,445 - 127.0.0.1 - - [07/Jul/2025 20:17:34] "POST / HTTP/1.1" 200 -
+2025-07-07 20:17:34,450 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:17:34,451 - 127.0.0.1 - - [07/Jul/2025 20:17:34] "POST / HTTP/1.1" 200 -
+2025-07-07 20:18:34,508 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:18:34,508 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:18:34,692 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:18:34,694 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:18:34,875 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:18:34,877 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:18:35,239 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:18:35,794 -  * Debugger is active!
+2025-07-07 20:18:35,799 -  * Debugger PIN: 760-882-839
+2025-07-07 20:20:43,435 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:43,436 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:43,917 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:43,917 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:44,142 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:20:44,718 -  * Debugger is active!
+2025-07-07 20:20:44,723 -  * Debugger PIN: 760-882-839
+2025-07-07 20:20:44,830 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:44,830 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:44,995 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:44,997 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:45,205 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:45,205 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:45,449 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:45,452 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:45,645 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:45,646 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:45,872 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:20:46,455 -  * Debugger is active!
+2025-07-07 20:20:46,458 -  * Debugger PIN: 760-882-839
+2025-07-07 20:20:46,706 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:46,706 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:46,912 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:46,913 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:47,155 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:47,156 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:47,355 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:47,357 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:20:47,557 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:20:48,143 -  * Debugger is active!
+2025-07-07 20:20:48,147 -  * Debugger PIN: 760-882-839
+2025-07-07 20:20:53,293 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:20:53,293 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:20:53,314 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:20:53,927 -  * Debugger is active!
+2025-07-07 20:20:53,932 -  * Debugger PIN: 760-882-839
+2025-07-07 20:20:58,382 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:20:58,387 - 127.0.0.1 - - [07/Jul/2025 20:20:58] "POST / HTTP/1.1" 200 -
+2025-07-07 20:20:58,392 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:20:58,392 - 127.0.0.1 - - [07/Jul/2025 20:20:58] "POST / HTTP/1.1" 200 -
+2025-07-07 20:20:58,399 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:20:58,401 - 127.0.0.1 - - [07/Jul/2025 20:20:58] "POST / HTTP/1.1" 200 -
+2025-07-07 20:22:39,685 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:22:39,686 - 127.0.0.1 - - [07/Jul/2025 20:22:39] "POST / HTTP/1.1" 200 -
+2025-07-07 20:22:39,691 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:22:39,692 - 127.0.0.1 - - [07/Jul/2025 20:22:39] "POST / HTTP/1.1" 200 -
+2025-07-07 20:22:39,696 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:22:39,696 - 127.0.0.1 - - [07/Jul/2025 20:22:39] "POST / HTTP/1.1" 200 -
+2025-07-07 20:22:42,844 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:22:42,844 - 127.0.0.1 - - [07/Jul/2025 20:22:42] "POST / HTTP/1.1" 200 -
+2025-07-07 20:22:42,849 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:22:42,849 - 127.0.0.1 - - [07/Jul/2025 20:22:42] "POST / HTTP/1.1" 200 -
+2025-07-07 20:22:42,856 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:22:42,856 - 127.0.0.1 - - [07/Jul/2025 20:22:42] "POST / HTTP/1.1" 200 -
+2025-07-07 20:23:50,890 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:23:50,890 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:23:51,084 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:23:51,089 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:23:51,219 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:23:51,219 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:23:51,360 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:23:51,938 -  * Debugger is active!
+2025-07-07 20:23:51,945 -  * Debugger PIN: 760-882-839
+2025-07-07 20:24:11,994 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:24:11,996 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:24:12,018 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:24:12,592 -  * Debugger is active!
+2025-07-07 20:24:12,599 -  * Debugger PIN: 760-882-839
+2025-07-07 20:24:16,194 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:24:16,200 - 127.0.0.1 - - [07/Jul/2025 20:24:16] "POST / HTTP/1.1" 200 -
+2025-07-07 20:24:16,205 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:24:16,206 - 127.0.0.1 - - [07/Jul/2025 20:24:16] "POST / HTTP/1.1" 200 -
+2025-07-07 20:24:16,212 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:24:16,213 - 127.0.0.1 - - [07/Jul/2025 20:24:16] "POST / HTTP/1.1" 200 -
+2025-07-07 20:24:35,238 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:24:35,242 - 127.0.0.1 - - [07/Jul/2025 20:24:35] "POST / HTTP/1.1" 200 -
+2025-07-07 20:24:35,247 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:24:35,247 - 127.0.0.1 - - [07/Jul/2025 20:24:35] "POST / HTTP/1.1" 200 -
+2025-07-07 20:24:35,254 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:24:35,255 - 127.0.0.1 - - [07/Jul/2025 20:24:35] "POST / HTTP/1.1" 200 -
+2025-07-07 20:24:43,029 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 20:24:43,031 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 20:24:43,198 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 20:24:43,200 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 20:24:43,358 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 20:24:43,359 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 20:24:43,507 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 20:24:43,509 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-07 20:24:43,786 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:24:44,375 -  * Debugger is active!
+2025-07-07 20:24:44,379 -  * Debugger PIN: 760-882-839
+2025-07-07 20:24:47,297 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:24:47,297 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-07 20:24:47,480 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:24:48,056 -  * Debugger is active!
+2025-07-07 20:24:48,061 -  * Debugger PIN: 760-882-839
+2025-07-07 20:24:50,735 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force.py', reloading
+2025-07-07 20:24:50,737 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force.py', reloading
+2025-07-07 20:24:50,934 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force.py', reloading
+2025-07-07 20:24:51,041 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force.py', reloading
+2025-07-07 20:24:51,041 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force.py', reloading
+2025-07-07 20:24:51,164 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:24:51,732 -  * Debugger is active!
+2025-07-07 20:24:51,740 -  * Debugger PIN: 760-882-839
+2025-07-07 20:24:57,758 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-07 20:24:57,758 - [33mPress CTRL+C to quit[0m
+2025-07-07 20:24:57,781 -  * Restarting with watchdog (windowsapi)
+2025-07-07 20:24:58,367 -  * Debugger is active!
+2025-07-07 20:24:58,373 -  * Debugger PIN: 760-882-839
+2025-07-07 20:25:00,176 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-07 20:25:00,182 - 127.0.0.1 - - [07/Jul/2025 20:25:00] "POST / HTTP/1.1" 200 -
+2025-07-07 20:25:00,187 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-07 20:25:00,187 - 127.0.0.1 - - [07/Jul/2025 20:25:00] "POST / HTTP/1.1" 200 -
+2025-07-07 20:25:00,193 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-07 20:25:00,194 - 127.0.0.1 - - [07/Jul/2025 20:25:00] "POST / HTTP/1.1" 200 -
+2025-07-08 15:41:22,885 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-08 15:41:22,885 - [33mPress CTRL+C to quit[0m
+2025-07-08 15:41:22,897 -  * Restarting with watchdog (windowsapi)
+2025-07-08 15:41:23,184 -  * Debugger is active!
+2025-07-08 15:41:23,189 -  * Debugger PIN: 760-882-839
+2025-07-08 15:41:25,522 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-08 15:41:25,537 - 127.0.0.1 - - [08/Jul/2025 15:41:25] "POST / HTTP/1.1" 200 -
+2025-07-08 15:41:25,541 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-08 15:41:25,541 - 127.0.0.1 - - [08/Jul/2025 15:41:25] "POST / HTTP/1.1" 200 -
+2025-07-08 15:41:25,543 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-08 15:41:25,543 - 127.0.0.1 - - [08/Jul/2025 15:41:25] "POST / HTTP/1.1" 200 -
+2025-07-08 15:41:37,006 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\__init__.py', reloading
+2025-07-08 15:41:37,020 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\__init__.py', reloading
+2025-07-08 15:41:37,041 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\common\\by.py', reloading
+2025-07-08 15:41:37,055 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\common\\keys.py', reloading
+2025-07-08 15:41:37,069 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\chrome\\service.py', reloading
+2025-07-08 15:41:37,099 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\chromium\\__init__.py', reloading
+2025-07-08 15:41:37,102 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\chromium\\service.py', reloading
+2025-07-08 15:41:37,113 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\common\\__init__.py', reloading
+2025-07-08 15:41:37,128 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\common\\service.py', reloading
+2025-07-08 15:41:37,133 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\chrome\\options.py', reloading
+2025-07-08 15:41:37,147 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\chromium\\options.py', reloading
+2025-07-08 15:41:37,167 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\common\\options.py', reloading
+2025-07-08 15:41:37,199 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\types.py', reloading
+2025-07-08 15:41:37,215 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\chrome\\webdriver.py', reloading
+2025-07-08 15:41:37,263 -  * Restarting with watchdog (windowsapi)
+2025-07-08 15:41:37,567 -  * Debugger is active!
+2025-07-08 15:41:37,567 -  * Debugger PIN: 760-882-839
+2025-07-08 15:41:51,802 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-08 15:41:51,803 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-08 15:41:52,658 -  * Restarting with watchdog (windowsapi)
+2025-07-08 15:41:52,954 -  * Debugger is active!
+2025-07-08 15:41:52,957 -  * Debugger PIN: 760-882-839
+2025-07-10 11:04:27,436 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:04:27,437 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:04:27,454 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:04:27,753 -  * Debugger is active!
+2025-07-10 11:04:27,757 -  * Debugger PIN: 760-882-839
+2025-07-10 11:04:30,811 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-10 11:04:30,813 - 127.0.0.1 - - [10/Jul/2025 11:04:30] "POST / HTTP/1.1" 200 -
+2025-07-10 11:04:30,816 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-10 11:04:30,816 - 127.0.0.1 - - [10/Jul/2025 11:04:30] "POST / HTTP/1.1" 200 -
+2025-07-10 11:04:30,818 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-10 11:04:30,818 - 127.0.0.1 - - [10/Jul/2025 11:04:30] "POST / HTTP/1.1" 200 -
+2025-07-10 11:05:29,496 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:29,497 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:29,694 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:29,694 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:29,870 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:05:30,153 -  * Debugger is active!
+2025-07-10 11:05:30,155 -  * Debugger PIN: 760-882-839
+2025-07-10 11:05:30,199 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:30,200 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:30,408 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:30,409 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:30,590 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:30,590 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:30,766 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:30,766 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:30,930 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:30,930 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:31,109 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:31,110 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:31,204 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:05:31,481 -  * Debugger is active!
+2025-07-10 11:05:31,483 -  * Debugger PIN: 760-882-839
+2025-07-10 11:05:31,660 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:31,661 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:31,834 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:31,834 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:32,014 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:32,015 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:32,185 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:32,186 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:32,344 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:32,344 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:05:32,533 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:05:32,808 -  * Debugger is active!
+2025-07-10 11:05:32,811 -  * Debugger PIN: 760-882-839
+2025-07-10 11:06:01,447 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:06:01,447 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:06:01,457 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:06:01,745 -  * Debugger is active!
+2025-07-10 11:06:01,747 -  * Debugger PIN: 760-882-839
+2025-07-10 11:06:05,401 - [127.0.0.1] FAILED — Username: admin, Password: 1234
+2025-07-10 11:06:05,405 - 127.0.0.1 - - [10/Jul/2025 11:06:05] "POST / HTTP/1.1" 200 -
+2025-07-10 11:06:05,408 - [127.0.0.1] FAILED — Username: admin, Password: admin
+2025-07-10 11:06:05,408 - 127.0.0.1 - - [10/Jul/2025 11:06:05] "POST / HTTP/1.1" 200 -
+2025-07-10 11:06:05,411 - [127.0.0.1] SUCCESS — Username: admin
+2025-07-10 11:06:05,411 - 127.0.0.1 - - [10/Jul/2025 11:06:05] "POST / HTTP/1.1" 200 -
+2025-07-10 11:06:14,754 - 127.0.0.1 - - [10/Jul/2025 11:06:14] "GET / HTTP/1.1" 200 -
+2025-07-10 11:06:14,798 - 127.0.0.1 - - [10/Jul/2025 11:06:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-10 11:06:15,750 - 127.0.0.1 - - [10/Jul/2025 11:06:15] "GET / HTTP/1.1" 200 -
+2025-07-10 11:06:18,014 - 127.0.0.1 - - [10/Jul/2025 11:06:18] "GET / HTTP/1.1" 200 -
+2025-07-10 11:06:32,242 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:06:32,242 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:06:32,252 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:06:32,529 -  * Debugger is active!
+2025-07-10 11:06:32,532 -  * Debugger PIN: 760-882-839
+2025-07-10 11:06:34,491 - 127.0.0.1 - - [10/Jul/2025 11:06:34] "GET / HTTP/1.1" 200 -
+2025-07-10 11:06:52,914 - [127.0.0.1] FAILED — Username: admin, Password: 1234
+2025-07-10 11:06:52,914 - 127.0.0.1 - - [10/Jul/2025 11:06:52] "POST / HTTP/1.1" 200 -
+2025-07-10 11:06:52,917 - [127.0.0.1] FAILED — Username: admin, Password: admin
+2025-07-10 11:06:52,917 - 127.0.0.1 - - [10/Jul/2025 11:06:52] "POST / HTTP/1.1" 200 -
+2025-07-10 11:06:52,918 - [127.0.0.1] SUCCESS — Username: admin
+2025-07-10 11:06:52,920 - 127.0.0.1 - - [10/Jul/2025 11:06:52] "POST / HTTP/1.1" 200 -
+2025-07-10 11:11:37,125 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,126 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,351 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,351 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,519 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,520 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,678 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,678 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,836 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,836 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:37,923 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:11:38,203 -  * Debugger is active!
+2025-07-10 11:11:38,206 -  * Debugger PIN: 760-882-839
+2025-07-10 11:11:38,300 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:38,300 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:38,760 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:38,761 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:38,957 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:38,957 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:11:39,258 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:11:39,549 -  * Debugger is active!
+2025-07-10 11:11:39,549 -  * Debugger PIN: 760-882-839
+2025-07-10 11:12:18,363 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:12:18,363 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:12:18,373 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:12:18,651 -  * Debugger is active!
+2025-07-10 11:12:18,651 -  * Debugger PIN: 760-882-839
+2025-07-10 11:12:21,467 - [127.0.0.1] FAILED — Username: admin, Password: 1234
+2025-07-10 11:12:21,474 - 127.0.0.1 - - [10/Jul/2025 11:12:21] "POST / HTTP/1.1" 200 -
+2025-07-10 11:12:21,477 - [127.0.0.1] FAILED — Username: admin, Password: admin
+2025-07-10 11:12:21,477 - 127.0.0.1 - - [10/Jul/2025 11:12:21] "POST / HTTP/1.1" 200 -
+2025-07-10 11:12:21,477 - [127.0.0.1] SUCCESS — Username: admin
+2025-07-10 11:12:21,480 - 127.0.0.1 - - [10/Jul/2025 11:12:21] "POST / HTTP/1.1" 200 -
+2025-07-10 11:16:45,073 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:16:45,073 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:16:45,084 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:16:45,361 -  * Debugger is active!
+2025-07-10 11:16:45,363 -  * Debugger PIN: 760-882-839
+2025-07-10 11:16:49,295 - [127.0.0.1] FAILED — Username: admin, Password: 1234
+2025-07-10 11:16:49,305 - 127.0.0.1 - - [10/Jul/2025 11:16:49] "POST / HTTP/1.1" 200 -
+2025-07-10 11:16:49,310 - [127.0.0.1] FAILED — Username: admin, Password: admin
+2025-07-10 11:16:49,310 - 127.0.0.1 - - [10/Jul/2025 11:16:49] "POST / HTTP/1.1" 200 -
+2025-07-10 11:16:49,313 - [127.0.0.1] SUCCESS — Username: admin
+2025-07-10 11:16:49,313 - 127.0.0.1 - - [10/Jul/2025 11:16:49] "POST / HTTP/1.1" 200 -
+2025-07-10 11:18:25,899 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\webbrowser.py', reloading
+2025-07-10 11:18:25,934 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\threading.py', reloading
+2025-07-10 11:18:26,524 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:18:26,805 -  * Debugger is active!
+2025-07-10 11:18:26,807 -  * Debugger PIN: 760-882-839
+2025-07-10 11:18:31,118 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:18:31,118 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:18:31,129 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:18:31,399 -  * Debugger is active!
+2025-07-10 11:18:31,399 -  * Debugger PIN: 760-882-839
+2025-07-10 11:18:48,040 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Lib\\site-packages\\selenium\\webdriver\\common\\driver_finder.py', reloading
+2025-07-10 11:18:48,492 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:18:48,765 -  * Debugger is active!
+2025-07-10 11:18:48,767 -  * Debugger PIN: 760-882-839
+2025-07-10 11:19:35,043 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:19:35,043 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:19:35,054 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:19:35,332 -  * Debugger is active!
+2025-07-10 11:19:35,334 -  * Debugger PIN: 760-882-839
+2025-07-10 11:33:56,133 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:33:56,136 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:33:56,271 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:33:56,570 -  * Debugger is active!
+2025-07-10 11:33:56,570 -  * Debugger PIN: 760-882-839
+2025-07-10 11:33:56,637 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:33:56,637 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:33:57,627 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:33:57,925 -  * Debugger is active!
+2025-07-10 11:33:57,927 -  * Debugger PIN: 760-882-839
+2025-07-10 11:34:22,660 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:34:22,660 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:34:22,671 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:34:22,949 -  * Debugger is active!
+2025-07-10 11:34:22,949 -  * Debugger PIN: 760-882-839
+2025-07-10 11:34:28,082 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-10 11:34:28,085 - 127.0.0.1 - - [10/Jul/2025 11:34:28] "POST / HTTP/1.1" 200 -
+2025-07-10 11:34:28,088 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-10 11:34:28,088 - 127.0.0.1 - - [10/Jul/2025 11:34:28] "POST / HTTP/1.1" 200 -
+2025-07-10 11:34:28,091 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-10 11:34:28,091 - 127.0.0.1 - - [10/Jul/2025 11:34:28] "POST / HTTP/1.1" 200 -
+2025-07-10 11:34:48,563 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:34:48,564 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:34:48,791 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:34:48,797 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:34:48,971 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:34:48,971 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\app.py', reloading
+2025-07-10 11:34:49,016 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:34:49,301 -  * Debugger is active!
+2025-07-10 11:34:49,301 -  * Debugger PIN: 760-882-839
+2025-07-10 11:34:54,515 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:34:54,515 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:34:54,525 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:34:54,798 -  * Debugger is active!
+2025-07-10 11:34:54,800 -  * Debugger PIN: 760-882-839
+2025-07-10 11:34:58,245 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-10 11:34:58,252 - 127.0.0.1 - - [10/Jul/2025 11:34:58] "POST / HTTP/1.1" 200 -
+2025-07-10 11:34:58,256 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-10 11:34:58,256 - 127.0.0.1 - - [10/Jul/2025 11:34:58] "POST / HTTP/1.1" 200 -
+2025-07-10 11:34:58,259 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-10 11:34:58,259 - 127.0.0.1 - - [10/Jul/2025 11:34:58] "POST / HTTP/1.1" 200 -
+2025-07-10 11:35:29,722 -  * Detected change in 'C:\\Users\\SATYAM\\anaconda3\\Scripts\\pip-script.py', reloading
+2025-07-10 11:35:29,888 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:35:30,182 -  * Debugger is active!
+2025-07-10 11:35:30,185 -  * Debugger PIN: 760-882-839
+2025-07-10 11:36:37,237 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:36:37,238 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:36:37,247 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:36:37,526 -  * Debugger is active!
+2025-07-10 11:36:37,528 -  * Debugger PIN: 760-882-839
+2025-07-10 11:36:42,068 - 127.0.0.1 - - [10/Jul/2025 11:36:42] "GET / HTTP/1.1" 200 -
+2025-07-10 11:36:42,263 - 127.0.0.1 - - [10/Jul/2025 11:36:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-10 11:36:43,390 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-10 11:36:43,390 - 127.0.0.1 - - [10/Jul/2025 11:36:43] "POST / HTTP/1.1" 200 -
+2025-07-10 11:36:44,433 - 127.0.0.1 - - [10/Jul/2025 11:36:44] "GET / HTTP/1.1" 200 -
+2025-07-10 11:36:45,533 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-10 11:36:45,533 - 127.0.0.1 - - [10/Jul/2025 11:36:45] "POST / HTTP/1.1" 200 -
+2025-07-10 11:36:46,557 - 127.0.0.1 - - [10/Jul/2025 11:36:46] "GET / HTTP/1.1" 200 -
+2025-07-10 11:36:47,662 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin123
+2025-07-10 11:36:47,663 - 127.0.0.1 - - [10/Jul/2025 11:36:47] "POST / HTTP/1.1" 200 -
+2025-07-10 11:36:48,681 - 127.0.0.1 - - [10/Jul/2025 11:36:48] "GET / HTTP/1.1" 200 -
+2025-07-10 11:36:49,788 - 127.0.0.1 - - [10/Jul/2025 11:36:49] "POST / HTTP/1.1" 200 -
+2025-07-10 11:36:50,806 - 127.0.0.1 - - [10/Jul/2025 11:36:50] "GET / HTTP/1.1" 200 -
+2025-07-10 11:37:22,099 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:37:22,099 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:37:22,112 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:37:22,400 -  * Debugger is active!
+2025-07-10 11:37:22,402 -  * Debugger PIN: 760-882-839
+2025-07-10 11:37:26,581 - 127.0.0.1 - - [10/Jul/2025 11:37:26] "GET / HTTP/1.1" 200 -
+2025-07-10 11:37:26,731 - 127.0.0.1 - - [10/Jul/2025 11:37:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-10 11:37:27,850 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-10 11:37:27,851 - 127.0.0.1 - - [10/Jul/2025 11:37:27] "POST / HTTP/1.1" 200 -
+2025-07-10 11:37:28,891 - 127.0.0.1 - - [10/Jul/2025 11:37:28] "GET / HTTP/1.1" 200 -
+2025-07-10 11:37:29,995 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-10 11:37:29,996 - 127.0.0.1 - - [10/Jul/2025 11:37:29] "POST / HTTP/1.1" 200 -
+2025-07-10 11:37:31,013 - 127.0.0.1 - - [10/Jul/2025 11:37:31] "GET / HTTP/1.1" 200 -
+2025-07-10 11:37:32,118 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin123
+2025-07-10 11:37:32,118 - 127.0.0.1 - - [10/Jul/2025 11:37:32] "POST / HTTP/1.1" 200 -
+2025-07-10 11:37:33,132 - 127.0.0.1 - - [10/Jul/2025 11:37:33] "GET / HTTP/1.1" 200 -
+2025-07-10 11:37:34,242 - 127.0.0.1 - - [10/Jul/2025 11:37:34] "POST / HTTP/1.1" 200 -
+2025-07-10 11:37:35,261 - 127.0.0.1 - - [10/Jul/2025 11:37:35] "GET / HTTP/1.1" 200 -
+2025-07-10 11:37:39,288 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:39,288 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:39,488 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:37:39,769 -  * Debugger is active!
+2025-07-10 11:37:39,772 -  * Debugger PIN: 760-882-839
+2025-07-10 11:37:39,964 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:39,965 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:40,167 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:40,168 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:40,372 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:40,372 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:40,548 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:40,548 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:40,717 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:40,718 -  * Detected change in 'D:\\Login-Brute-Force-Simulator-\\brute_force_visual.py', reloading
+2025-07-10 11:37:40,822 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:37:41,119 -  * Debugger is active!
+2025-07-10 11:37:41,121 -  * Debugger PIN: 760-882-839
+2025-07-10 11:37:47,883 - 127.0.0.1 - - [10/Jul/2025 11:37:47] "GET / HTTP/1.1" 200 -
+2025-07-10 11:37:48,040 - 127.0.0.1 - - [10/Jul/2025 11:37:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-10 11:37:49,156 - [127.0.0.1] \u274c FAILED — Username: admin, Password: 1234
+2025-07-10 11:37:49,156 - 127.0.0.1 - - [10/Jul/2025 11:37:49] "POST / HTTP/1.1" 200 -
+2025-07-10 11:37:50,195 - 127.0.0.1 - - [10/Jul/2025 11:37:50] "GET / HTTP/1.1" 200 -
+2025-07-10 11:37:51,300 - [127.0.0.1] \u274c FAILED — Username: admin, Password: admin
+2025-07-10 11:37:51,300 - 127.0.0.1 - - [10/Jul/2025 11:37:51] "POST / HTTP/1.1" 200 -
+2025-07-10 11:37:52,318 - 127.0.0.1 - - [10/Jul/2025 11:37:52] "GET / HTTP/1.1" 200 -
+2025-07-10 11:37:53,425 - [127.0.0.1] \u2705 SUCCESS — Username: admin
+2025-07-10 11:37:53,425 - 127.0.0.1 - - [10/Jul/2025 11:37:53] "POST / HTTP/1.1" 200 -
+2025-07-10 11:37:54,445 - 127.0.0.1 - - [10/Jul/2025 11:37:54] "GET / HTTP/1.1" 200 -
+2025-07-10 11:46:25,552 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:46:25,552 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:46:25,561 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:46:25,851 -  * Debugger is active!
+2025-07-10 11:46:25,851 -  * Debugger PIN: 760-882-839
+2025-07-10 11:46:26,639 - 127.0.0.1 - - [10/Jul/2025 11:46:26] "GET / HTTP/1.1" 200 -
+2025-07-10 11:46:26,936 - 127.0.0.1 - - [10/Jul/2025 11:46:26] "GET / HTTP/1.1" 200 -
+2025-07-10 11:46:48,328 - 127.0.0.1 - - [10/Jul/2025 11:46:48] "GET / HTTP/1.1" 200 -
+2025-07-10 11:46:48,475 - 127.0.0.1 - - [10/Jul/2025 11:46:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-10 11:46:49,594 - [127.0.0.1] FAILED — Username: admin, Password: 1234
+2025-07-10 11:46:49,595 - 127.0.0.1 - - [10/Jul/2025 11:46:49] "POST / HTTP/1.1" 200 -
+2025-07-10 11:46:50,636 - 127.0.0.1 - - [10/Jul/2025 11:46:50] "GET / HTTP/1.1" 200 -
+2025-07-10 11:46:51,745 - [127.0.0.1] FAILED — Username: admin, Password: admin
+2025-07-10 11:46:51,747 - 127.0.0.1 - - [10/Jul/2025 11:46:51] "POST / HTTP/1.1" 200 -
+2025-07-10 11:46:52,763 - 127.0.0.1 - - [10/Jul/2025 11:46:52] "GET / HTTP/1.1" 200 -
+2025-07-10 11:46:53,868 - [127.0.0.1] SUCCESS — Username: admin
+2025-07-10 11:46:53,869 - 127.0.0.1 - - [10/Jul/2025 11:46:53] "POST / HTTP/1.1" 200 -
+2025-07-10 11:46:54,887 - 127.0.0.1 - - [10/Jul/2025 11:46:54] "GET / HTTP/1.1" 200 -
+2025-07-10 11:47:11,241 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-10 11:47:11,241 - [33mPress CTRL+C to quit[0m
+2025-07-10 11:47:11,255 -  * Restarting with watchdog (windowsapi)
+2025-07-10 11:47:11,534 -  * Debugger is active!
+2025-07-10 11:47:11,536 -  * Debugger PIN: 760-882-839
+2025-07-10 11:47:12,976 - 127.0.0.1 - - [10/Jul/2025 11:47:12] "GET / HTTP/1.1" 200 -
+2025-07-10 11:47:12,980 - 127.0.0.1 - - [10/Jul/2025 11:47:12] "GET / HTTP/1.1" 200 -
+2025-07-10 11:47:13,244 - 127.0.0.1 - - [10/Jul/2025 11:47:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-10 11:47:13,246 - 127.0.0.1 - - [10/Jul/2025 11:47:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-10 11:47:20,474 - 127.0.0.1 - - [10/Jul/2025 11:47:20] "GET / HTTP/1.1" 200 -
+2025-07-10 11:47:20,627 - 127.0.0.1 - - [10/Jul/2025 11:47:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-10 11:47:21,747 - [127.0.0.1] FAILED — Username: admin, Password: 1234
+2025-07-10 11:47:21,747 - 127.0.0.1 - - [10/Jul/2025 11:47:21] "POST / HTTP/1.1" 200 -
+2025-07-10 11:47:22,793 - 127.0.0.1 - - [10/Jul/2025 11:47:22] "GET / HTTP/1.1" 200 -
+2025-07-10 11:47:23,898 - [127.0.0.1] FAILED — Username: admin, Password: admin
+2025-07-10 11:47:23,898 - 127.0.0.1 - - [10/Jul/2025 11:47:23] "POST / HTTP/1.1" 200 -
+2025-07-10 11:47:24,916 - 127.0.0.1 - - [10/Jul/2025 11:47:24] "GET / HTTP/1.1" 200 -
+2025-07-10 11:47:26,024 - [127.0.0.1] SUCCESS — Username: admin
+2025-07-10 11:47:26,024 - 127.0.0.1 - - [10/Jul/2025 11:47:26] "POST / HTTP/1.1" 200 -
+2025-07-10 11:47:27,031 - 127.0.0.1 - - [10/Jul/2025 11:47:27] "GET / HTTP/1.1" 200 -
